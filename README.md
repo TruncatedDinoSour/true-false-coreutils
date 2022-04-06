@@ -22,3 +22,7 @@ Like wtf, and these binaries are STRIPPED
 > true.<ext> and false.<ext> should always be there
 
 - All languages submitted must be compiled
+
+- Compiled binaries for that language cannot be
+  larger than 34KB, for example go would not
+  fit
