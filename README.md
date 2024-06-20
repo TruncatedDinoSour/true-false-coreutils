@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/true-false-coreutils>
 # True/false
 
 > Replacements to bloated /bin/false and /bin/true coreutils
